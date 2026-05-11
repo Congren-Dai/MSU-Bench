@@ -3,7 +3,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2511.20697-b31b1b.svg)](https://arxiv.org/abs/2511.20697)
 
 **Evaluating Large Language Models' Comprehension of Complete Musical Scores**
-
+![ABC](figures/abc.png)
 ---
 ## News
 
@@ -18,12 +18,6 @@ MSU-Bench is a human-curated benchmark for evaluating the musical score understa
 - 1,800 generative question-answer pairs
 - 4 hierarchical difficulty levels
 - 12 questions per score (3 per level)
-
-## Multi-level Understanding
-
-![ABC](figures/abc.png)
-
-## Data Curation and Evaluation
 
 ![Data](figures/data.png)
 
