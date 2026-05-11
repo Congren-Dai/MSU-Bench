@@ -5,6 +5,9 @@
 **Evaluating Large Language Models' Comprehension of Complete Musical Scores**
 
 ---
+## News
+
+- We are glad to share that this work has been accepted to **ACL 2026 Main Conference** 🎉!
 
 ## Overview
 
