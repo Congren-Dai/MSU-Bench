@@ -72,9 +72,6 @@ coming soon
 }
 ```
 
-## License
-
-Please refer to the repository for licensing information regarding the musical scores sourced from MuseScore.
 
 ## Acknowledgements
 
