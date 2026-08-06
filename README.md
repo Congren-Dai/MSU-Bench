@@ -3,7 +3,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2511.20697-b31b1b.svg)](https://arxiv.org/abs/2511.20697)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Dataset-yellow.svg)](https://huggingface.co/datasets/Krinos/MSU-Bench)
 
-Last updated: 05/08/2026
+Last updated: 06/08/2026
 
 **Evaluating Large Language Models' Comprehension of Complete Musical Scores**
 
